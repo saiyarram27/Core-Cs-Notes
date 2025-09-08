@@ -1,4 +1,4 @@
-# Core-Cs-Notes
+# DBMS Basics
 DBMS - datbase management system is a software that allows user to store, retrieve, and manage data efficienctly.
 
 * Acts like a layer between raw data and end users.
